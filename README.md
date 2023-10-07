@@ -4,7 +4,6 @@
 <html>
   
 <head>
-    <title>GamePiratDow</title>
   <meta charset="utf-8">
     <link rel="shortcut icon" href="https://yandex.ru/images/search?p=8&text=игры+лого&pos=14&rpt=simage&img_url=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Fluchesa-2%2F128%2FController-1024.png&from=tabbar&lr=51">
 </head>
