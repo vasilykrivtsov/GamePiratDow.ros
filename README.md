@@ -31,9 +31,6 @@
     <br>
     <h6>Игра Granny, более популярная на русском как Бабка Гренни это хоррор-игра, в которой вы застряли у бабуси убийцы дома и вам нужно сбежать.</h6>
     <br>
-        
-    <img src="https://image.winudf.com/v2/image1/Y29tLndhbGt0cm91Z2guZ3Jhbm55aG9ycm9yZ2FtZTNfc2NyZWVuXzBfMTYyNDkzMzUxNV8wMTM/screen-0.jpg?fakeurl=1&type=.jpg" width="150">
-    <br>
     <a href="https://disk.yandex.ru/d/RZVcQj1qXCBibQ" download>
             Нажми сюда для скачивания - ПК
     <a href="#"></a>
